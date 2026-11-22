@@ -11,7 +11,7 @@
 [![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?logo=docker)](https://docker.com)
 
 </div>
-<img src="assets/image_search.png" width="100%">
+<img src="assets/image_search.svg" width="100%">
 
 ---
 
